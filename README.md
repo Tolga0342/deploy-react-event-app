@@ -13,7 +13,7 @@ Event App
 
 #features:
 - Responsive lay-out
-- Fetching data from Heroku 
+- Fetching data which I deployed to Heroku 
 - navigation bar to navigate through the pages
 - Home page with lists of events, search bar, filter categories and click interaction
 - Event page with details of single event and user can edit or delete event
