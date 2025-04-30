@@ -1,7 +1,7 @@
 #project: 
 Event App
 
-#description: Responsive event app created with HTML, Javascript and React + Vite. The app is styled using Chakra UI. For this project, I implemented a navigation bar, search functionality, filtering, click interactions, and buttons to make the app interactive. Users can also add, edit, or delete events, and after one of these actions, a pop-up window will be shown.
+#description: Responsive event app created with HTML, Javascript and React + Vite. The app is styled using Chakra UI. For this project, I implemented a navigation bar, search functionality, filtering, click interactions, and buttons to make the app interactive. Users can also add, edit, or delete events, and after one of these actions, a pop-up window will be shown. 
 
 #live-demo: https://project-event-app.netlify.app/
 
@@ -13,12 +13,15 @@ Event App
 
 #features:
 - Responsive lay-out
-- page with lists of recipes
-- page with details of single recipe
-- searchfunction
-- clickfunction
-- back button
-- applied react concepts: JSX, function components, props, conditional, states, loops and handling events 
+- Fetching data from Heroku 
+- navigation bar to navigate through the pages
+- Home page with lists of events, search bar, filter categories and click interaction
+- Event page with details of single event and user can edit or delete event
+- Add page using a form, after submitting form event will be uploaded to homepage
+- after adding, editting or deleting pop-up window will appear with message
+- applied react concepts: Router, context, react hooks, fetching data, props, loops and handling events
+
+  
 
 #local installation:
 1. copy the repository link
