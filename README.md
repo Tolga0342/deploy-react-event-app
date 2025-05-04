@@ -1,17 +1,25 @@
-#project: 
+# project
+
 Event App
 
-#description: Responsive event app created with HTML, Javascript and React + Vite. The app is styled using Chakra UI. For this project, I implemented a navigation bar, search functionality, filtering, click interactions, and buttons to make the app interactive. Users can also add, edit, or delete events, and after one of these actions, a pop-up window will be shown. 
+# live-demo: 
 
-#live-demo: https://project-event-app.netlify.app/
+https://project-event-app.netlify.app/
 
-#technologies used:
+# description
+
+Responsive event app created with HTML, Javascript and React + Vite. The app is styled using Chakra UI. For this project, I implemented a navigation bar, search functionality, filtering, click interactions, and buttons to make the app interactive. Users can also add, edit, or delete events, and after one of these actions, a pop-up window will be shown. 
+
+
+# technologies used
+
 - HTML
 - Javascript
 - React + Vite
 - Chakra UI
 
-#features:
+# features
+
 - Responsive lay-out
 - Fetching data which I deployed to Heroku 
 - navigation bar to navigate through the pages
@@ -23,7 +31,8 @@ Event App
 
   
 
-#local installation:
+# local installation
+
 1. copy the repository link and open (windows) terminal
 2. choose your directory to clone repository, for example --> C:\Users\Gebruiker\Desktop\
 3. enter following command -->  git clone https://github.com/Tolga0342/deploy-react-event-app.git
