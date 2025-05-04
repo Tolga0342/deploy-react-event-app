@@ -2,7 +2,7 @@
 
 Event App
 
-# live-demo: 
+# live-demo
 
 https://project-event-app.netlify.app/
 
