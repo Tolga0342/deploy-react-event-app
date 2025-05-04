@@ -38,5 +38,5 @@ Responsive event app created with HTML, Javascript and React + Vite. The app is 
 3. enter following command -->  git clone https://github.com/Tolga0342/deploy-react-event-app.git
 4. navigate to the directory where repository is, for example --> C:\Users\Gebruiker\Desktop\deploy-react-event-app
 5. enter following command in (windows) terminal to open VScode --> code .
-6. open the terminal within VS code, enter following command --> npm install and thereafter enter following command --> npm run dev
+6. open the terminal within VS code, enter following commands --> npm install and npm run dev
 7. click on the localhost URL in the terminal or copy-paste localhost URL in the browser to view project 
